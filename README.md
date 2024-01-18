@@ -1,5 +1,6 @@
-### Hi there 👋
+Hi there! 👋
 
+[![Sankalp's GitHub stats](https://github-readme-stats.vercel.app/api?username=1sankalp)](https://github.com/1sankalp/github-readme-stats)
 <!--
 **1Sankalp/1sankalp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
