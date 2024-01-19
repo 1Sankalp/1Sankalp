@@ -10,6 +10,7 @@ Detailed bio at <a href="https://sankalp.sh/" target="_blank">sankalp.sh</a> and
 * Hacker at <a href="https://peopleplus.ai/" target="_blank">People+ai</a>
 * Founding team at <a href="https://vaeral.com/" target="_blank">Vaeral</a>
 
+<hr />
 
 ### Past⏰
 * Founder <a href="https://www.skyhi.live/" target="_blank">SkyHi</a>
