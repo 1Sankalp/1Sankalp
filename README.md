@@ -11,8 +11,7 @@ Detailed bio at <a href="https://sankalp.sh/" target="_blank">sankalp.sh</a> and
 * Founding team at <a href="https://vaeral.com/" target="_blank">Vaeral</a>
 
 
-Past⏰
-
+### Past⏰
 * Founder <a href="https://www.skyhi.live/" target="_blank">SkyHi</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1sankalp&layout=compact)
