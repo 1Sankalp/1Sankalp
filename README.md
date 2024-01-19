@@ -18,5 +18,3 @@ Past⏰
 * Founder <a href="https://www.skyhi.live/" target="_blank">SkyHi</a>  -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1sankalp&layout=compact)
-
-![](https://komarev.com/ghpvc/?username=1sankalp)
