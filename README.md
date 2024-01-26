@@ -19,4 +19,4 @@ Detailed bio at <a href="https://sankalp.sh/" target="_blank">sankalp.sh</a> and
 
 <hr />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1sankalp&layout=compact&bg_color=0000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1sankalp&layout=compact)
