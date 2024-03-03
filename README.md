@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-Detailed bio at <a href="https://sankalp.sh/" target="_blank">sankalp.sh</a> and <a href="https://twitter.com/1sankalp" target="_blank">@1sankalp</a>
+Detailed bio at <a href="https://sankalp.sh/" target="_blank">sankalp.sh</a> and <a href="https://bento.me/1sankalp" target="_blank">bento</a>
 
 ### Current⚡️
 * Fellow at <a href="https://www.founder.university/" target="_blank">FU</a>
