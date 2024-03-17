@@ -6,7 +6,7 @@ Detailed bio at <a href="https://sankalp.sh/" target="_blank">sankalp.sh</a>
 <!--* Fellow at <a href="https://www.founder.university/" target="_blank">FU</a> -->
 
 * Founder and CEO at <a href="https://actuality.live/" target="_blank">Actuality</a> <a href="https://ycombinator.com/" target="_blank">(YC S24)</a> 🙌
-* Fellow at <a href="https://www.beondeck.com/" target="_blank">On Deck</a>, <a href="https://www.zfellows.com/" target="_blank">Z Fellows</a>, <a href="https://www.founder.university/" target="_blank">FU</a>, <a href="https://fi.co/" target="_blank">FI</a> 🙌
+* Fellow at <a href="https://www.beondeck.com/" target="_blank">On Deck</a>, <a href="https://www.zfellows.com/" target="_blank">Z Fellows</a>, <a href="https://www.founder.university/" target="_blank">FU</a> 🙌
 * Pioneer at <a href="https://pioneer.app/" target="_blank">Pioneer</a> 🙌
 * Builder at <a href="https://www.livetheresidency.com/" target="_blank">The Residency</a> 🙌
 * Founding team, Product & Growth at <a href="https://reejected.in/" target="_blank">Re-Ejected</a>
