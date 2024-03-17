@@ -9,7 +9,7 @@ Detailed bio at <a href="https://sankalp.sh/" target="_blank">sankalp.sh</a>
 * Fellow at <a href="https://www.beondeck.com/" target="_blank">On Deck</a>, <a href="https://www.zfellows.com/" target="_blank">Z Fellows</a>, <a href="https://www.founder.university/" target="_blank">FU</a>, <a href="https://fi.co/" target="_blank">FI</a> 🙌
 * Pioneer at <a href="https://pioneer.app/" target="_blank">Pioneer</a> 🙌
 * Builder at <a href="https://www.livetheresidency.com/" target="_blank">The Residency</a> 🙌
-* Founding team and Head of Operations at <a href="https://reejected.in/" target="_blank">Re-Ejected</a>
+* Founding team, Product & Growth at <a href="https://reejected.in/" target="_blank">Re-Ejected</a>
 
 <hr />
 
