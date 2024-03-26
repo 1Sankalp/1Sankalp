@@ -2,7 +2,7 @@
 
 Detailed bio at <a href="https://sankalp.sh/" target="_blank">sankalp.sh</a>
 
-### Current⚡️
+<!--### Current⚡️
 
 
 * Co-founder and Chief Product Officer at <a href="https://actuality.live/" target="_blank">Actuality</a> <a href="https://ycombinator.com/" target="_blank">(YC S24)</a> 🙌
@@ -10,7 +10,7 @@ Detailed bio at <a href="https://sankalp.sh/" target="_blank">sankalp.sh</a>
 * Pioneer at <a href="https://pioneer.app/" target="_blank">Pioneer</a>
 * Builder at <a href="https://www.livetheresidency.com/" target="_blank">The Residency</a>
 * Member at <a href="https://www.computer.org/" target="_blank">IEEE</a>, <a href="https://www.acm.org/" target="_blank">ACM</a>, <a href="https://www.asme.org/" target="_blank">ASME</a>
-* Founding team, Product & Growth at <a href="https://reejected.in/" target="_blank">Re-Ejected</a>
+* Founding team, Product & Growth at <a href="https://reejected.in/" target="_blank">Re-Ejected</a>-->
 
 
 <hr />
