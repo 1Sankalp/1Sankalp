@@ -9,7 +9,7 @@ Detailed bio at <a href="https://sankalp.sh/" target="_blank">sankalp.sh</a>
 * Fellow at <a href="https://www.beondeck.com/" target="_blank">On Deck</a>, <a href="https://www.southparkcommons.com/" target="_blank">SPC</a>, <a href="https://www.zfellows.com/" target="_blank">Z Fellows</a>, <a href="https://www.non-trivial.org/" target="_blank">Non-Trivial</a>, <a href="https://www.thersa.org/" target="_blank">RSA/a> 🙌
 * Pioneer at <a href="https://pioneer.app/" target="_blank">Pioneer</a> 🙌
 * Builder at <a href="https://www.livetheresidency.com/" target="_blank">The Residency</a> 🙌
-* Member at <a href="https://www.computer.org/" target="_blank">IEEE</a>, <a href="https://www.acm.org/" target="_blank">ACM</a>, <a href="https://www.asme.org/" target="_blank">ASME</a>-
+* Member at <a href="https://www.computer.org/" target="_blank">IEEE</a>, <a href="https://www.acm.org/" target="_blank">ACM</a>, <a href="https://www.asme.org/" target="_blank">ASME</a>
 * Founding team, Product & Growth at <a href="https://reejected.in/" target="_blank">Re-Ejected</a>
 
 
