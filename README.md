@@ -5,7 +5,7 @@ Detailed bio at <a href="https://sankalp.sh/" target="_blank">sankalp.sh</a>
 ### Current⚡️
 
 
-<!--* Co-founder and CEO at (YC S24)</a> 🙌
+<!--* Co-founder and CEO at (YC S24)</a> 🙌 -->
 * Founding team, Product & Growth at <a href="https://parivestra.com/" target="_blank">Parivestra</a>
 
 
